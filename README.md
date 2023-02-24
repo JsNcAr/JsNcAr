@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, I'm Jason Arias 👋
 
 <!--
 **JsNcAr/JsNcAr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Some things about me:
+
+- **Location:** <a href="https://www.google.com/maps/search/bogot%C3%A1/@4.6486259,-74.2478946,11z" target="_blank">Bogotá, Colombia</a> 📍🇨🇴
+- **Email:** jn.arias@uniandes.edu.co ✉️📫
+- **Education:** Physics @ <a href="[https://uniandes.edu.co](https://uniandes.edu.co/en)" target="_blank">Universidad de los Andes</a> 📚🇨🇴
+ 
+I love programming, here in my github profile you'll find some of my school or personal projects.
+
+I'm interested mostly in Data Analysis, Machine Learning and Web Development.
+
+If you're a recruiter or a possible colleague, you can check my LinkedIn profile [here](https://www.linkedin.com/in/jason-nicolas-arias-gomez-50127b248/).
+
+You can check bellow ⬇️⬇️⬇️ my public repositories:
