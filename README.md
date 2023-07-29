@@ -19,7 +19,7 @@ Some things about me:
 
 - **Location:** <a href="https://www.google.com/maps/search/bogot%C3%A1/@4.6486259,-74.2478946,11z" target="_blank">Bogotá, Colombia</a> 📍🇨🇴
 - **Email:** jn.arias@uniandes.edu.co ✉️📫
-- **Education:** Physics @<a href="[https://uniandes.edu.co](https://uniandes.edu.co/en)" target="_blank">Universidad de los Andes</a> 📚🇨🇴
+- **Education:** Physics [@Universidad de los Andes](https://uniandes.edu.co/en) 📚🇨🇴
  
 I love programming, here in my github profile you'll find some of my school or personal projects.
 
