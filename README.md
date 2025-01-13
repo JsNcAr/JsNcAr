@@ -43,6 +43,10 @@ I'm always open to networking and professional opportunities. Feel free to reach
 
 ---
 
+### 📊 GitHub Stats:
+
+![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=jsncar&show_icons=true&hide_rank=true&custom_title=JsNcAr&theme=radical)
+
 ### 📂 My Projects
 
 Check out my public repositories below ⬇️⬇️⬇️
