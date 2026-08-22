@@ -56,9 +56,9 @@ I'm always open to networking and professional opportunities. Feel free to reach
 |---|---|---|
 | [**Celestial Mechanics API**](https://github.com/JsNcAr/celestian-mechanics-calculations-api) | A FastAPI backend for orbital mechanics and coordinate-frame conversions, with a layered service architecture and full API docs. | Python · FastAPI · Pydantic |
 | [**Celestial Mechanics Frontend**](https://github.com/JsNcAr/celestial-mechanics-calculations-frontend) | The browser client for the API above — browse catalogued bodies and compute orbital periods and gravitational forces. No bundler, no framework. | TypeScript · Pico CSS |
+| [**basic_api**](https://github.com/JsNcAr/basic_api) | A FastAPI starter with OAuth2 + JWT auth, async PostgreSQL via SQLModel, and login by username, email, or phone number. | Python · FastAPI · SQLModel |
 | [**GSalud Analysis**](https://github.com/JsNcAr/GSalud_Analysis) | Financial data analysis of a dental clinic, from SQL extraction through to exploratory analysis and reporting. | Python · pandas · MySQL |
-| [**Bogotá Apartments**](https://github.com/JsNcAr/Bogota-Apartments-Rework) | Price analysis of Bogotá's apartment market, reworked from an open dataset. | Python · pandas |
-| [**LLM Autocontext**](https://github.com/JsNcAr/LLM_Autocontext) | Generates a narrowed, automatic context window for an LLM based on previous chats. | Python |
+| [**Bogotá Apartments**](https://github.com/JsNcAr/Bogota-Apartments-Rework) | An ETL pipeline for Bogotá's apartment market — scrapers over two listing sites, then cleaning, feature extraction, and geographic enrichment. | Python · Scrapy · pandas |
 | [**Daemons**](https://github.com/JsNcAr/Daemons) | Dynamic-DNS daemon and Telegram alerting that keep a self-hosted Linux server reachable on a changing IP. | Bash · Python |
 
 More in my [public repositories](https://github.com/JsNcAr?tab=repositories) ⬇️
