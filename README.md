@@ -19,16 +19,23 @@ I’m a physics student passionate about **Data Analysis**, **Machine Learning**
 
 ### 🖥️ **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
 ### 🛠️ **Tools & Frameworks**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -43,11 +50,15 @@ I'm always open to networking and professional opportunities. Feel free to reach
 
 ---
 
-### 📊 GitHub Stats:
+### 📂 Featured Projects
 
-![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=jsncar&show_icons=true&hide_rank=true&custom_title=JsNcAr&theme=radical)
+| Project | What it is | Built with |
+|---|---|---|
+| [**Celestial Mechanics API**](https://github.com/JsNcAr/celestian-mechanics-calculations-api) | A FastAPI backend for orbital mechanics and coordinate-frame conversions, with a layered service architecture and full API docs. | Python · FastAPI · Pydantic |
+| [**Celestial Mechanics Frontend**](https://github.com/JsNcAr/celestial-mechanics-calculations-frontend) | The browser client for the API above — browse catalogued bodies and compute orbital periods and gravitational forces. No bundler, no framework. | TypeScript · Pico CSS |
+| [**GSalud Analysis**](https://github.com/JsNcAr/GSalud_Analysis) | Financial data analysis of a dental clinic, from SQL extraction through to exploratory analysis and reporting. | Python · pandas · MySQL |
+| [**Bogotá Apartments**](https://github.com/JsNcAr/Bogota-Apartments-Rework) | Price analysis of Bogotá's apartment market, reworked from an open dataset. | Python · pandas |
+| [**LLM Autocontext**](https://github.com/JsNcAr/LLM_Autocontext) | Generates a narrowed, automatic context window for an LLM based on previous chats. | Python |
+| [**Daemons**](https://github.com/JsNcAr/Daemons) | Dynamic-DNS daemon and Telegram alerting that keep a self-hosted Linux server reachable on a changing IP. | Bash · Python |
 
-### 📂 My Projects
-
-Check out my public repositories below ⬇️⬇️⬇️
-
+More in my [public repositories](https://github.com/JsNcAr?tab=repositories) ⬇️
